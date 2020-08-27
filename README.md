@@ -1,8 +1,9 @@
 # HTML-Coding
 <!DOCTYPE html>
 <html>
-<body>
 <h1 style="background-color:DodgerBlue;">Hello World</h1>
+<body>
+
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
 
