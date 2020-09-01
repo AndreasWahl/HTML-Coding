@@ -13,4 +13,4 @@
 
 <a href="mailto:andreaswahl77@gmail.com">Send email</a>
 
-<button onclick="www.processverktyg.se">My page</button>
+<button onclick="document.location='default.asp'">My page</button>
