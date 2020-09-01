@@ -10,3 +10,5 @@
 </html>
 
 <a href="https://www.processverktyg.se/">Välkommen till processverktyg</a>
+
+<a href="mailto:andreaswahl77@gmail.com">Send email</a>
