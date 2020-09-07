@@ -96,3 +96,7 @@ a:active {
   <h2>London</h2>
   <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
 </div>
+
+<h1>My First Emoji</h1>
+
+<p>&#128512;</p>
