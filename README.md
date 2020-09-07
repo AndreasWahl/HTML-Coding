@@ -100,3 +100,7 @@ a:active {
 <h1>My First Emoji</h1>
 
 <p>&#128512;</p>
+
+<p style="font-size:48px">
+&#128512; &#128516; &#128525; &#128151;
+</p>
