@@ -24,6 +24,20 @@ a:active {
   text-decoration: underline;
 }
 </style>
+  
+ <script>
+var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+
+// Create gradient
+var grd = ctx.createLinearGradient(0, 0, 200, 0);
+grd.addColorStop(0, "red");
+grd.addColorStop(1, "white");
+
+// Fill with gradient
+ctx.fillStyle = grd;
+ctx.fillRect(10, 10, 150, 80);
+</script>
 </head>
 <body>
 
@@ -104,3 +118,6 @@ a:active {
 <p style="font-size:48px">
 &#128512; &#128516; &#128525; &#128151;
 </p>
+
+
+<canvas id="myCanvas" width="200" height="100"></canvas>
