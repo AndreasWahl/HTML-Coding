@@ -32,8 +32,6 @@ a:active {
 <h1 style="background-color:DodgerBlue;">My First Heading</h1>
 <p>My first paragraph.</p>
 <p>My second paragraph.</p>
-</body>
-</html>
 
 <a href="https://www.processverktyg.se/">Välkommen till processverktyg</a>
 
